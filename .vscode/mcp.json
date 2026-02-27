@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "<your-mcp-server-name>": mintlify {
+      "type": "http",
+      "url": "acelerai.mintlify.app/mcp"
+    }
+  }
+}
